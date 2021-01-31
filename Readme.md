@@ -1,6 +1,6 @@
 # About 
 
-Using Apache Spark on Azure Databricks to analyze a dataset from the [Registry of Open Data on AWS](https://registry.opendata.aws/).
+Using Apache Spark on Azure Databricks to analyze a dataset from the [Registry of Open Data](https://registry.opendata.aws/).
 
 The dataset is taken from the [GDELT project](https://www.gdeltproject.org/), which is a "realtime open data global graph over human society" that monitors a comprehensive selection of the world's web news.
 
