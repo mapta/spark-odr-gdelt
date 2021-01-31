@@ -8,13 +8,19 @@ The dataset is taken from the [GDELT project](https://www.gdeltproject.org/), wh
 
 - A graph with circular layout is generated for the top N threat emitters
 
+- It is a weighted graph, scaled by the mean number of threats within the top N
+
 - The source code for the data ingest and anlysis can be found here:
   - [Databricks Notebook](./threat-analysis.py)
   - [Jupyter Notebook](./threat-analysis.ipynb)
   
-## Most frequent threators globally
+## Top 100 most frequent threators globally
 
 ![Top 100](./threators_top_100.png)
+
+## Top 300 most frequent threators globally
+
+![Top 300](./threators_top_300.png)
 
 
 
